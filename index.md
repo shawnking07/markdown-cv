@@ -6,8 +6,7 @@ title: Shawn Jin's CV
 Software Engineer.
 
 <div id="webaddress">
-<a href="shawn.jin.sz@outlook.com">shawn.jin.sz@outlook.com</a>
-<!-- | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a> -->
+<a href="yishun.jin@outlook.com">yishun.jin@outlook.com</a>
 </div>
 
 
@@ -17,26 +16,25 @@ Master of Information Technology, UNSW.
 
 ### Specialized in
 
-Java Development, full-stack development.
+Java development, full-stack development.
 
 ## Education
 
-`2015-2019`
-__Zhejiang Universisty, China.__
-
-- Bachlor of Software Engineering
-
 `2019-2021`
-__UNSW, Australia__
+**UNSW, Australia**
 
 - Master of Information Technology
 
+`2015-2019`
+**Zhejiang University Ningbo Institution of Technology, China.**
 
-## Awards
-
-
-## Occupation
-
+- Bachelor of Software Engineering
 
 ## Projects
+
+### HR++ ( Human Resource Management System )
+
+> Rococo Co., Ltd.
+>
+> 2018.07 - 2019.03 | Software Engineer ( Intern )
 
