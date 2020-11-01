@@ -32,8 +32,17 @@
 
 ### [Kaggle Microsoft Malware Prediction](https://github.com/shawnking07/microsoft-malware-prediction)
 
-- Kaggle 竞赛 恶意软件预测
-- 实现基准测试，模型选择，特征工程，内存优化，参数调优。
+- Kaggle 竞赛 恶意软件预测，使用传统决策树算法 LightGBM
+- 实现数据预处理，基准测试，模型选择，特征工程，内存优化，参数调优。
+
+### 基于 Java NIO 的论坛
+
+- COMP3331 Assignment
+- 使用原生 NIO selector 实现 non-blocking 事件驱动服务端
+- 使用了类似 HTTP 的自定义协议
+- 客户端使用简单的 BIO 多线程进行读写分离
+- 服务器端使用生产者消费者模型，将任务放入队列中，建立多个任务处理线程提高性能
+- 该项目加深了对计算机网络应用层，HTTP 协议以及 Java 多线程的理解
 
 ## 专业技能
 
@@ -51,7 +60,7 @@
 
 Master of Information Technology
 
-- COMP9319 Web Data Compression & Search
+- [COMP9319 Web Data Compression & Search](https://github.com/shawnking07/comp9319-code-snippet)
 - COMP9417 Machine Learning and Data Mining
 - COMP9331 Computer Networks and Applications
 - COMP9444 Neural Networks and Deep Learning
@@ -65,6 +74,6 @@ Master of Information Technology
 
 - GPA 3.34/4 ( 专业前10% )
 - 荣誉 / 奖项
-  - 学院大学生科研之星工程立项 三等奖
+  - 学院大学生科研之星工程立项 三等奖 ( Arduino 三轴稳定器模型 )
   - 一二等奖学金 ( 2015 - 2018 )
   - 优秀学生干部 ( 2015 - 2018 )
