@@ -28,7 +28,7 @@ Familiar with Java, JavaScript, Python and SQL in database design.
 
 ### Specialized in
 
-Full-stack development (Java, Angular, React, Vue)
+Full-stack development
 
 ### Interested in
 
