@@ -16,7 +16,11 @@ Master of Information Technology, UNSW.
 
 ### Specialized in
 
-Java development, full-stack development.
+Full-stack development (Java, Angular, React, Vue)
+
+### Interested in
+
+Machine learning and deep learning.
 
 ## Education
 
