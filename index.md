@@ -32,7 +32,7 @@ Java development, full-stack development.
 
 ## Projects
 
-### HR++ ( Human Resource Management System )
+**HR++ ( Human Resource Management System )**
 
 > Rococo Co., Ltd.
 >
