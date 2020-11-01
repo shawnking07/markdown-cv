@@ -14,6 +14,18 @@ Software Engineer.
 
 Master of Information Technology, UNSW.
 
+## Summary
+
+Strong in design and integration of problem-solving skills. 
+Familiar with Java, JavaScript, Python and SQL in database design.
+
+*Software Skills include:*
+- Backend: Spring, Flask
+- Frontend: Angular
+- Database: MySQL, Postgres, Redis, MongoDB
+- Machine Learning and Deep Learning
+- Tools: Docker, Git, SVN
+
 ### Specialized in
 
 Full-stack development (Java, Angular, React, Vue)
