@@ -40,7 +40,8 @@ Java development, full-stack development.
 `2018.07 - 2019.03`
 **HR++ ( Human Resource Management System )**
 
-- Rococo Co., Ltd.   Software Engineer ( Intern )
+> Rococo Co., Ltd.   Software Engineer ( Intern )
+
 - This project is a highly customizable HRMS solution for Rococo Ningbo. Use *Spring framework* to simplify the code. For web front-end uses *Angular* and *React* for PC and mobile adaptations respectively. We use *Docker*, *Jenkins*, etc. for containerized management and continuous integration. There are highly customizable function modules, fuzzy search, hardware integration, approval workflows, and other features.
 - I am responsible for some of the business development of the system, as well as the main design and development of the mobile web side. Integrate *Flowable* to simplify the development of the approval process features of the system. Independently complete the resume collection system, resume information extraction (emails from platforms like Linkedin and Seek, etc.) and abstract a unified interface for extension. Implemented the automatic calculation of the leave module, leave duration according to the office hours and holidays.
 - Used *Yeoman* tool to generate simple CRUD template code for the system, avoiding repeated copying and pasting, which greatly simplified the development process.
