@@ -51,7 +51,7 @@ Machine learning and deep learning.
 
 - Bachelor of Software Engineering
 
-## Projects
+## Experiences
 
 `2018.07 - 2019.03`
 **HR++ ( Human Resource Management System )**
@@ -67,6 +67,14 @@ Machine learning and deep learning.
 **POI-POJO Utilities**
 
 - This is a sub-project of HR++. Use *Apache POI Framework*, Java reflection and annotation to convert directly between simple Excel file and POJO.
+
+**Online discussion forum based on Java NIO**
+
+- An assignment for COMP3331 Computer Networks and Applications
+- The application is based on a client server model consisting of one server and multiple clients communicating either sequentially or concurrently. The client and server communicate using TCP. 
+- It supports a range of functions that are typically found on discussion forums including authentication, creation and deletion of threads and messages, reading threads, uploading and downloading files
+- The Server use java.NIO to implement non-blocking communication with clients. Use selector model to manipulate client channel. And clients use BIO simply implement two threads to separately read and write stream as inputting from terminal will block main process.
+
 
 **[Kaggle Microsoft Malware Prediction](https://github.com/shawnking07/microsoft-malware-prediction)**
 
