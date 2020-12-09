@@ -17,7 +17,7 @@ Master of Information Technology, UNSW.
 ## Summary
 
 Strong in design and integration of problem-solving skills. 
-Familiar with Java, JavaScript, Python and SQL in database design.
+Familiar with Java, Python and SQL in database design.
 
 *Software Skills include:*
 - Backend: Spring, Flask
@@ -59,7 +59,7 @@ Machine learning and deep learning.
 > Rococo Co., Ltd.   Software Engineer ( Intern )
 
 - This project is a highly customizable HRMS solution for Rococo Ningbo. Use *Spring framework* to simplify the code. For web front-end uses *Angular* and *React* for PC and mobile adaptations respectively. We use *Docker*, *Jenkins*, etc. for containerized management and continuous integration. There are highly customizable function modules, fuzzy search, hardware integration, approval workflows, and other features.
-- I am responsible for some of the business development of the system, as well as the main design and development of the mobile web side. Integrate *Flowable* to simplify the development of the approval process features of the system. Independently complete the resume collection system, resume information extraction (emails from platforms like Linkedin and Seek, etc.) and abstract a unified interface for extension. Implemented the automatic calculation of the leave module, leave duration according to the office hours and holidays.
+- I was responsible for some of the business development of the system, as well as the main design and development of the mobile web side. Also integrated *Flowable* to simplify the development of the approval process features of the system. I independently completed the resume collection system, resume information extraction (emails from platforms like Linkedin and Seek, etc.) and abstracted a unified interface for extension. I implemented the automatic calculation of the leave module, leave duration according to the office hours and holidays.
 - Used *Yeoman* tool to generate simple CRUD template code for the system, avoiding repeated copying and pasting, which greatly simplified the development process.
 - Worked with product managers to translate the English language package of the system.
 - Currently the system has been delivered to more than 10 companies and received a lot of positive feedback, especially the resume analysis module was well received by them.
@@ -71,7 +71,7 @@ Machine learning and deep learning.
 **Online discussion forum based on Java NIO**
 
 - An assignment for COMP3331 Computer Networks and Applications
-- The application is based on a client server model consisting of one server and multiple clients communicating either sequentially or concurrently. The client and server communicate using TCP. 
+- The application is based on a client-server model consisting of one server and multiple clients communicating either sequentially or concurrently. The client and server communicate using TCP. 
 - It supports a range of functions that are typically found on discussion forums including authentication, creation and deletion of threads and messages, reading threads, uploading and downloading files
 - The Server use java.NIO to implement non-blocking communication with clients. Use selector model to manipulate client channel. And clients use BIO simply implement two threads to separately read and write stream as inputting from terminal will block main process.
 
